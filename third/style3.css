@@ -1,0 +1,211 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.navbar{
+    overflow: hidden;
+    display:flex;; 
+}
+.navlist{
+    position:fixed;
+    list-style-type:none;
+}
+.navbar a{
+    padding:30px;
+    display:block;
+    color:white;
+    text-decoration:none;
+    text-transform:uppercase;
+   }
+.navbar a:hover{
+    background-color:rgb(39, 2, 2);
+ }
+.navbar li{
+    float:left;
+   }
+.left-container{
+    width:70%;
+    background-image:url("https://wallpaperaccess.com/full/1780920.jpg");
+
+     background-repeat:no repeat;
+}
+.right-container{
+    width:30%;
+    background-image:url("https://wallpapercave.com/wp/wp8210000.jpg");
+     background-repeat:no repeat;
+}
+.left-container,.right-container{
+    height:750px;
+    display:flex;
+    align-items:center;
+   
+}
+.content{
+    margin-top:80px;
+    margin-left:20px;
+}
+.details{
+    max-width:38rem;
+    font-size:20px;
+    color:white;
+    margin:1.1rem 0 3rem 0;
+}
+.btn button{
+    border: .1 rem solid;
+    font-size: 15px;
+    padding: .8rem 1.5rem;
+    border-radius:.5rem;
+    cursor:pointer;
+    color:black;
+}
+h1{
+    font-size:50px;
+    color:rgb(83, 41, 11);
+}
+h2{
+    font-size:40px;
+    color:white;
+}
+    h3{
+        font-size:50px;
+        color:white;
+        margin-top:70px;
+        margin-left:20px;
+        font-family:('Times New Roman');
+    }
+
+.navbar a:hover{
+        background-color:black;
+     }
+.navbar li{
+        float:left;
+       }
+.menn{
+    height:100%;
+    width:100%;
+    background-image:url("https://images4.alphacoders.com/263/263468.jpg");
+    background-size:100%;
+    background-repeat:no repeat;
+}
+h4{
+    font-size:30px;
+    color:rgb(107, 56, 3);
+    margin-top:20px;
+    margin-left:40px;
+}
+p{
+  font-size:20px;
+  color:white;
+  margin-left:20px;  
+  padding-top:20px;
+  padding-inline-start: 20px;;
+}
+h5{
+    font-size:30px;
+    color:rgb(107, 56, 3);
+    margin-top:20px;
+    margin-left:40px;
+}
+h6{
+    font-size:30px;
+    color:white;
+    margin-top:70px;
+    margin-left:20px;
+}
+.ab{
+    height:100%;
+    width:100%;
+    background-image:url("https://img.freepik.com/free-photo/coffee-beans-dark-background-top-view-coffee-concept_1220-6299.jpg?size=626&ext=jpg");
+    background-size:100%;
+    background-repeat:no repeat;
+}
+h7{
+    font-size:30px;
+    color:white;
+    margin-top:50px;
+    margin-left:20px;
+}
+h8{
+    font-size:30px;
+    color:white;
+    margin-top:20px;
+    margin-left:20px;
+}
+.ab img{
+    height:300px;
+    width:400px;
+    cursor:pointer;
+    border-radius:3px;
+}
+h9{
+    font-size:30px;
+    color:white;
+    margin-top:20px;
+    margin-left:20px;
+}
+h10{
+    font-size:30px;
+    color:white;
+    margin-top:20px;
+    margin-left:20px;
+}
+h11{
+    font-size:30px;
+    color:white;
+    margin-top:20px;
+    margin-left:20px;
+}
+h12{
+    font-size:30px;
+    color:white;
+    margin-top:20px;
+    margin-left:20px;
+}
+h13{
+    font-size:25px;
+    color:white;
+    margin-top:10px;
+    margin-left:20px;
+}
+h15{
+    font-size:25px;
+    color:white;
+    margin-left:20px;
+}
+h16{
+    font-size:20px;
+    color:white;
+    margin-left:20px; 
+}
+h17{
+    font-size:20px;
+    color:grey;;
+    margin-left:20px; 
+}
+.sub .contactinfo{
+    width:50%;
+    display:flex;
+    flex-direction:column;
+}
+.sub .contactinfo .box{
+    position:relative;
+    padding:20px 0;
+    display:flex;
+}
+
+.sub .contactinfo .box .text{
+    display:flex;
+    margin-left:20px;
+    font-size:16px;
+    flex-direction:column;
+    font-weight:300;
+}
+
+
+
+
+
+
+
+    
